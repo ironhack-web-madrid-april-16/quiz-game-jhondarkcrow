@@ -1,0 +1,65 @@
+/* RESET */
+*{
+	margin: 0;
+	padding: 0;
+}
+/* POSITION AND GENERAL SETTINGS */
+
+body{
+	background-color:#F5F8FA;
+} 
+
+#content{
+	width:100%;
+	display: inline-block;
+}
+
+/* HEADER AND FIRST NAV */
+
+#head{
+	height: 50px;
+	width: 100%;
+	display: inline-block;
+	background-color: white;
+}
+
+#logo_twitter{
+	height: 50px;
+	display: inline;
+	float: left;
+}
+ 
+ul{
+	display: inline;
+}
+
+ul li{
+	list-style: none;
+	display: inline;
+}
+
+#search{
+	height: 8px;
+}
+/* IMAGE BEETWEEN HEADER AND CONTENT */
+#image_header{
+	display: inline-block;
+}
+
+/* CONTENT */
+
+
+#left_bar{
+	width: 25%;
+	display: inline-block;
+}
+
+#components{
+	width:50%;
+	display: inline-block;
+}
+
+#rigth_bar{
+	width: 25%;
+	display: inline-block;
+}
